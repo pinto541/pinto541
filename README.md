@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @pinto541
-- 👀 I’m interested in codine and also love to expolre differnt places. 
+- 👀 I’m interested in coding and also love to expolre differnt places. 
 - 🌱 I’m currently learning c programming and flutter. 
 - 💞️ I’m looking to collaborate on projects related to front end development.
 - 📫 How to reach me-pinto.yadav.of@gmail.com .
