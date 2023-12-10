@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @pinto541
+ - 👋 Hi, I’m @pinto541
 - 👀 I’m interested in coding and also love to expolre differnt places. 
 - 🌱 I’m currently learning full stack web developemnt and generative AI. 
 - 💞️ I’m looking to collaborate on projects related to front end development.
-- 📫 How to reach me-pinto.yadav.of@gmail.com .
+- 📫 How to reach me-  pinto.yadav.of@gmail.com .
 
 <!---
 pinto541/pinto541 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
